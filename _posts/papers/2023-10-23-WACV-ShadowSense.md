@@ -21,6 +21,7 @@ Rudraksh Kapil, Seyed Mojtaba Marvasti-Zadeh, Nadir Erbilgin, and Nilanjan Ray
 </div>
 
 
-![Image alt]({{ page.img }})
-
+<div style="display:flex;justify-content:center;align-items:center">
+  <img src="{{ site.baseurl }}/resources/projects/{{ page.img }}" alt="{{ page.alt }}" style="width:90%;height:auto;justify-content:center">
+</div>
 
