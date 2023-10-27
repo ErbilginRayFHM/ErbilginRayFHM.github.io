@@ -16,6 +16,7 @@ Seyed Mojtaba Marvasti-Zadeh, Devin Goodsman, Nilanjan Ray, Nadir Erbilgin
 
 <div class="button-container" style="margin-bottom:10px">
   <div class="more"><a href="https://arxiv.org/abs/2207.04512">View on arXiv</a></div>
+  <div class="more"><a href="https://homepages.inf.ed.ac.uk/rbf/vaib22.html">ICPR Workshop Page</a></div>
 </div>
 
 
