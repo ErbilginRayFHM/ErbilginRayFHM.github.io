@@ -17,7 +17,7 @@ Rudraksh Kapil, Seyed Mojtaba Marvasti-Zadeh, Devin Goodsman, Nadir Erbilgin, an
 
 <div class="button-container">
   <div class="more"><a href="https://arxiv.org/abs/2210.03829">View on arXiv</a></div>
-  <div class="more"><a href="https://homepages.inf.ed.ac.uk/rbf/vaib22.html">VAIB Workshop Page</a></div>
+  <div class="more"><a href="https://homepages.inf.ed.ac.uk/rbf/vaib22.html">ICPR Workshop Page</a></div>
 </div>
 
 
