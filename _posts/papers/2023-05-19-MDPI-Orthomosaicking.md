@@ -17,6 +17,8 @@ Rudraksh Kapil, Guillermo Castilla, Seyed Mojtaba Marvasti-Zadeh, Devin Goodsman
   <div class="more"><a href="https://github.com/rudrakshkapil/Integrated-RGB-Thermal-Orthomosaicing">GitHub Repo</a></div>
 </div>
 
+
 <div style="display:flex;justify-content:center;align-items:center">
-  <img src="{{ site.baseurl }}/resources/projects/{{ page.img }}" alt="{{ page.alt }}" style="width:90%;height:auto;justify-content:center">
+  <img src="{{ site.baseurl }}/resources/publications/{{ page.img }}" alt="{{ page.alt }}" style="width:90%;height:auto;justify-content:center">
 </div>
+
