@@ -19,7 +19,7 @@ Seyed Mojtaba Marvasti-Zadeh, Devin Goodsman, Nilanjan Ray, Nadir Erbilgin
 
 
 
-![Image alt]({{ page.img }})
+![Image alt](./{{ page.img }})
 <!-- <div style="border-radius: 30px; border-color:rgb(1,160,73);width:99%;margin-top:10px">
   <img src="{{ site.baseurl }}/resources/publications/{{ page.img }}"/>
 </div> -->
