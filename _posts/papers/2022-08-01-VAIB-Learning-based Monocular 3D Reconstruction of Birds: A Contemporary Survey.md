@@ -3,6 +3,7 @@ title:  "Learning-based Monocular 3D Reconstruction of Birds: A Contemporary Sur
 layout: post
 categories: publications
 img: vaib-birds.png
+alt: VAIB
 ---
 
 Seyed Mojtaba Marvasti-Zadeh, Devin Goodsman, Nilanjan Ray, Nadir Erbilgin 
