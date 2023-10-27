@@ -20,4 +20,6 @@ Rudraksh Kapil, Seyed Mojtaba Marvasti-Zadeh, Devin Goodsman, Nadir Erbilgin, an
   <div class="more"><a href="https://homepages.inf.ed.ac.uk/rbf/vaib22.html">Workshop Page</a></div>
 </div>
 
-![Image alt]({{ page.img }})
+![Image alt](./{{ page.img }})
+
+
