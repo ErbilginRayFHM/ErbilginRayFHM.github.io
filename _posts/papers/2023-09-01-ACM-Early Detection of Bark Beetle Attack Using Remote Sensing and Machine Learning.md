@@ -17,7 +17,8 @@ Seyed Mojtaba Marvasti-Zadeh, Devin Goodsman, Nilanjan Ray, Nadir Erbilgin
   <div class="more"><a href="https://dl.acm.org/doi/abs/10.1145/3625387">View on ACM Website</a></div>
 </div>
 
-![Image alt]({{ page.img }})
-
+<div style="display:flex;justify-content:center;align-items:center">
+  <img src="{{ site.baseurl }}/resources/projects/{{ page.img }}" alt="{{ page.alt }}" style="width:90%;height:auto;justify-content:center">
+</div>
 
 
